@@ -4,4 +4,4 @@
 
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/CrawfordBrown/SEMGroupProject/Hello world action/DEVELOP?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/CrawfordBrown/SEMGroupProject/Hello world action/Develop?style=flat-square)
