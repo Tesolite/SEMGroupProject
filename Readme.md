@@ -1,4 +1,4 @@
 
 
-![workflow](https://github.com/CrawfordBronw/SEMGroupProject/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/CrawfordBrown/SEMGroupProject/actions/workflows/main.yml/badge.svg)
 
